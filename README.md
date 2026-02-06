@@ -11,16 +11,16 @@ Este projeto é um portfólio profissional desenvolvido para apresentar minhas h
 * **Navegação Suave**: Menu interativo que direciona para as seções da página.
 * **Responsividade**: Layout totalmente adaptável para dispositivos móveis, tablets e desktops.
 * **Componentes Reutilizáveis**: Estrutura dividida em componentes independentes para melhor manutenção do código.
-* **Seções Obrigatórias**:
-    * **Sobre Mim**: Apresentação profissional e localização.
-    * **Habilidades**: Destaque para tecnologias de Desenvolvimento e Design.
-    * **Projetos**: Galeria com imagens, descrições e links dos projetos desenvolvidos.
-    * **Contato**: Formulário e links para redes profissionais.
+* **Seções Obrigatórias**: Sobre Mim, Habilidades, Projetos e Contato.
 
 ## 🛠️ Projetos em Destaque
 * **O Jardim de Epicuro**: Webdesign focado em filosofia e UI/UX.
 * **PsicoMariana**: Landing page clean para portfólio de psicologia.
 * **Portfolio Fotografia**: Site desenvolvido para o fotógrafo Henrique Abreu.
+
+## 🌐 Acesso Online (Deploy)
+O projeto está publicado e pode ser acessado através do link abaixo:
+👉 [Link do Deploy (Vercel)](https://trabalho-final-ebac-front-end-eng.vercel.app/)
 
 ## 💻 Como Rodar o Projeto Localmente
 
