@@ -1,0 +1,38 @@
+/* Reset básico para garantir que o layout seja consistente em todos os navegadores */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Configurações do corpo do site */
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #f4f4f4; /* Cor de fundo neutra */
+  color: #333;
+  line-height: 1.6;
+  overflow-x: hidden; /* Evita barra de rolagem horizontal indesejada */
+}
+
+/* Permite que o clique no menu deslize suavemente até a seção */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Estilo padrão para links */
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: 0.3s;
+}
+
+/* Estilo para listas (comum em Navbars) */
+ul {
+  list-style: none;
+}
+
+/* Garante que imagens não estourem o layout (importante para responsividade) */
+img {
+  max-width: 100%;
+  display: block;
+}
